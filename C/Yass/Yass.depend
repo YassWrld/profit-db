@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635884012 source:c:\yacine\creations\programming\c\yass\main.c
+	<stdio.h>
+	<stdlib.h>
+
