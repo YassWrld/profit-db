@@ -1,5 +1,5 @@
 import express from 'express';
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 4125;
 import helmet from 'helmet';
 import "./core/db.js";
 import router from './routers/index.js';

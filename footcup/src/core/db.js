@@ -1,9 +1,9 @@
 import mongoose from 'mongoose';
 import { init } from "./init.js";
-const username = "username";
-const password = "password123$";
+const username = "profiti";
+const password = "profiti";
 
-const dbURI = `mongodb+srv://${username}:${password}@cluster0.2qy7y.mongodb.net/MyFirstDatabase?retryWrites=true&w=majority`;
+const dbURI = `mongodb+srv://${username}:${password}@cluster0.5rcex.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`;
 
 mongoose.connect(dbURI);
 
